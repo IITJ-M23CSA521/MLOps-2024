@@ -1,1 +1,2 @@
 This is the example MODIFIED file for ML Ops Git assignment.
+The content is replaced in this example file.
